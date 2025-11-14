@@ -3,7 +3,7 @@ Demonstration: Geometric Handling of Imaginary Numbers (Fixed)
 ===============================================================
 Shows how complex numbers are represented geometrically via rotations.
 
-Authors: Nathanael Joseph Bocker and Manus AI
+Authors: Nathanael Joseph Bocker
 Date: November 13, 2025
 """
 
