@@ -61,7 +61,7 @@ pip install -r requirements.txt
 A full package will be available on PyPI soon.
 ## Demonstrations
 
-See [demos/README.md](demos/README.md) for detailed explanations and instructions for running the demonstrations.
+See [demos/PSMSL Demonstrations.md](demos/PSMSL Demonstrations.md) for detailed explanations and instructions for running the demonstrations.
 
 ### Quick Demo: Handling a Singularity
 
