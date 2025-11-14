@@ -120,7 +120,6 @@ If you use PSMSL in your research, please cite our foundational paper:
   title   = {The Geometric Computational Universe: A Unified Framework for Physics, Computation, and Low-Energy AI},
   author  = {Nathanael Joseph Bocker},
   year    = {2025},
-  journal = {arXiv preprint}
 }
 ```
 
