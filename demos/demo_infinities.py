@@ -10,7 +10,7 @@ Date: November 13, 2025
 
 import numpy as np
 import matplotlib.pyplot as plt
-from psmsl_core import *
+from libpsmsl.psmsl_core import *
 
 def traditional_gravity_potential(r: float, M: float = 1.0, G: float = 1.0) -> float:
     """
@@ -180,7 +180,7 @@ def create_comparison_plot(r_values, trad_results, geom_results):
     ax2.legend(fontsize=11)
     
     plt.tight_layout()
-    plt.savefig('/home/ubuntu/singularity_comparison.png', dpi=300, bbox_inches='tight')
+    plt.savefig('singularity_comparison.png', dpi=300, bbox_inches='tight')
     print("Visualization saved to: singularity_comparison.png")
     print()
 
