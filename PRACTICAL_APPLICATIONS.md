@@ -1,6 +1,6 @@
 # Practical Applications of PSMSL: Real-World Use Cases
 
-**Authors:** Nathanael Joseph Bocker and Manus AI  
+**Authors:** Nathanael Joseph Bocker and contributors
 **Date:** November 13, 2025
 
 ## Introduction
