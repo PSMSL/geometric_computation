@@ -61,7 +61,7 @@ pip install -r requirements.txt
 A full package will be available on PyPI soon.
 ## Demonstrations
 
-See See the [PSMSL Demonstrations guide](demos/PSMSL Demonstrations.md) for detailed explanations and instructions.
+See the [PSMSL Demonstrations guide](geometric_computation/demos/PSMSL Demonstrations.md) for detailed explanations and instructions.
  for detailed explanations and instructions for running the demonstrations.
 
 ### Quick Demo: Handling a Singularity
