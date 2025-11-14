@@ -164,7 +164,7 @@ def create_visualization(data, entropies, anomaly_indices):
     axes[1].grid(True, alpha=0.3)
     
     plt.tight_layout()
-    plt.savefig('/home/ubuntu/psmsl-project/examples/anomaly_detection_result.png', dpi=300, bbox_inches='tight')
+    plt.savefig('anomaly_detection_result.png', dpi=300, bbox_inches='tight')
     print("Visualization saved to: examples/anomaly_detection_result.png")
     print()
 
