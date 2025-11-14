@@ -4,7 +4,7 @@ PSMSL Core: Geometric Computational Model
 Implementation of the Projected Symmetry Mirrored Semantic Lattice
 that handles infinities and imaginary numbers geometrically.
 
-Authors: Nathanael Joseph Bocker and Manus AI
+Authors: Nathanael Joseph Bocker
 Date: November 13, 2025
 """
 
