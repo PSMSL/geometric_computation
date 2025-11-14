@@ -22,7 +22,7 @@ This framework provides a practical, implementable model of the universe as a se
 
 -   **Ultra-Low Energy:** By replacing expensive arithmetic with efficient symmetry checks and geometric transformations, PSMSL provides a blueprint for AI systems that are **3-5x more energy-efficient in software** and **20-50x more efficient with custom hardware**.
 
-![Singularity Comparison](https://i.imgur.com/your-singularity-comparison-image.png)
+![Singularity Comparison](singularity%20comparison.png)
 *Figure 1: Traditional numerical methods (left) fail at small scales, while PSMSL (right) remains stable across all orders of magnitude.*
 
 ---
