@@ -8,7 +8,7 @@ anomalies in time series data by measuring entropy (mirror drift).
 Use Case: Detecting unusual patterns in sensor data, financial transactions,
 network traffic, or any sequential data stream.
 
-Authors: Nathanael Joseph Bocker and Manus AI
+Authors: Nathanael Joseph Bocker
 Date: November 13, 2025
 """
 
