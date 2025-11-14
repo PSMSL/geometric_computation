@@ -4,7 +4,7 @@ Demonstration: Geometric Handling of Infinities
 Compares traditional numerical methods vs PSMSL geometric approach
 for handling singularities (1/r → ∞ as r → 0).
 
-Authors: Nathanael Joseph Bocker and Manus AI
+Authors: Nathanael Joseph Bocker
 Date: November 13, 2025
 """
 
