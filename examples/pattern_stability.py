@@ -167,7 +167,7 @@ def create_stability_visualization(results):
     
     plt.suptitle('Pattern Stability Comparison', fontsize=16, fontweight='bold', y=0.995)
     plt.tight_layout()
-    plt.savefig('/home/ubuntu/psmsl-project/examples/pattern_stability_result.png', dpi=300, bbox_inches='tight')
+    plt.savefig('pattern_stability_result.png', dpi=300, bbox_inches='tight')
     print("Visualization saved to: examples/pattern_stability_result.png")
     print()
 
