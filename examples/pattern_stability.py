@@ -8,7 +8,7 @@ by tracking how the triadic properties evolve over time.
 Use Case: Determining if a system configuration is stable, if a signal
 is coherent, or if a data pattern will persist.
 
-Authors: Nathanael Joseph Bocker and Manus AI
+Authors: Nathanael Joseph Bocker
 Date: November 13, 2025
 """
 
