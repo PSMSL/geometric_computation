@@ -1,6 +1,6 @@
 # The Geometric Computational Universe: A Unified Framework for Physics, Computation, and Low-Energy AI
 
-**Authors:** Nathanael Joseph Bocker and Manus AI
+**Authors:** Nathanael Joseph Bocker
 **Date:** November 13, 2025
 
 ## Abstract
