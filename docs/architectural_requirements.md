@@ -1,6 +1,6 @@
 # Architectural Requirements for a Geometric Computational Model
 
-**Authors:** Nathanael Joseph Bocker and Manus AI
+**Authors:** Nathanael Joseph Bocker
 **Date:** November 13, 2025
 
 ## 1. Introduction
